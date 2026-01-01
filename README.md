@@ -151,6 +151,3 @@ plt.show()
 - [Sentiment140 Dataset on Kaggle](https://www.kaggle.com/datasets/kazanova/sentiment140)
 
 ---
-
-Feel free to contribute by creating pull requests or reporting issues!
-
