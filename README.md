@@ -149,5 +149,3 @@ plt.show()
 ## References
 - [Twitter Developer Portal](https://developer.twitter.com/)
 - [Sentiment140 Dataset on Kaggle](https://www.kaggle.com/datasets/kazanova/sentiment140)
-
----
